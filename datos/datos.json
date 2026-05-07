@@ -1,0 +1,2912 @@
+{
+    "discografia": {
+        "cancion": [
+            {
+                "titulo": "Extremaydura",
+                "disco": {
+                    "nombre": "Rock Transgresivo",
+                    "fecha_publicacion": "1989",
+                    "discografica": "Avispa Records"
+                },
+                "posicion_disco": "1",
+                "duracion": "3.28",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz, guitarra y flauta"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Emparedado",
+                "disco": {
+                    "nombre": "Rock Transgresivo",
+                    "fecha_publicacion": "1989",
+                    "discografica": "Avispa Records"
+                },
+                "posicion_disco": "2",
+                "duracion": "4.23",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Decidi",
+                "disco": {
+                    "nombre": "Rock Transgresivo",
+                    "fecha_publicacion": "1989",
+                    "discografica": "Avispa Records"
+                },
+                "posicion_disco": "3",
+                "duracion": "2.5",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Romperas",
+                "disco": {
+                    "nombre": "Rock Transgresivo",
+                    "fecha_publicacion": "1989",
+                    "discografica": "Avispa Records"
+                },
+                "posicion_disco": "4",
+                "duracion": "3.52",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Adios abanico, que llego el aire",
+                "disco": {
+                    "nombre": "Rock Transgresivo",
+                    "fecha_publicacion": "1989",
+                    "discografica": "Avispa Records"
+                },
+                "posicion_disco": "5",
+                "duracion": "3.62",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Arrebato",
+                "disco": {
+                    "nombre": "Rock Transgresivo",
+                    "fecha_publicacion": "1989",
+                    "discografica": "Avispa Records"
+                },
+                "posicion_disco": "6",
+                "duracion": "3.38",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Jesucristo Garcia",
+                "disco": {
+                    "nombre": "Rock Transgresivo",
+                    "fecha_publicacion": "1989",
+                    "discografica": "Avispa Records"
+                },
+                "posicion_disco": "7",
+                "duracion": "4.83",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "La hoguera",
+                "disco": {
+                    "nombre": "Rock Transgresivo",
+                    "fecha_publicacion": "1989",
+                    "discografica": "Avispa Records"
+                },
+                "posicion_disco": "8",
+                "duracion": "3.93",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Te juzgaran solo por tus errores (Yo no)",
+                "disco": {
+                    "nombre": "Rock Transgresivo",
+                    "fecha_publicacion": "1989",
+                    "discografica": "Avispa Records"
+                },
+                "posicion_disco": "9",
+                "duracion": "2.98",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Caballero andante (¡No me dejeis asiii!)",
+                "disco": {
+                    "nombre": "Rock Transgresivo",
+                    "fecha_publicacion": "1989",
+                    "discografica": "Avispa Records"
+                },
+                "posicion_disco": "10",
+                "duracion": "2.53",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Tu corazon",
+                "disco": {
+                    "nombre": "Somos unos animales",
+                    "fecha_publicacion": "1991",
+                    "discografica": "Area Creativa"
+                },
+                "posicion_disco": "1",
+                "duracion": "4.83",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        },
+                        {
+                            "nombre": "Belen",
+                            "rol": "Coros"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "La cancion de los oficios",
+                "disco": {
+                    "nombre": "Somos unos animales",
+                    "fecha_publicacion": "1991",
+                    "discografica": "Area Creativa"
+                },
+                "posicion_disco": "2",
+                "duracion": "3.87",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Rosendo Mercado",
+                            "rol": "Voz invitada"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Quemando tus recuerdos",
+                "disco": {
+                    "nombre": "Somos unos animales",
+                    "fecha_publicacion": "1991",
+                    "discografica": "Area Creativa"
+                },
+                "posicion_disco": "3",
+                "duracion": "5.85",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        },
+                        {
+                            "nombre": "Belen",
+                            "rol": "Coros"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "V Centenario",
+                "disco": {
+                    "nombre": "Somos unos animales",
+                    "fecha_publicacion": "1991",
+                    "discografica": "Area Creativa"
+                },
+                "posicion_disco": "4",
+                "duracion": "3.38",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        },
+                        {
+                            "nombre": "Maria",
+                            "rol": "Coros"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "J.D. La central nuclear",
+                "disco": {
+                    "nombre": "Somos unos animales",
+                    "fecha_publicacion": "1991",
+                    "discografica": "Area Creativa"
+                },
+                "posicion_disco": "5",
+                "duracion": "1.48",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Ni principes ni princesas",
+                "disco": {
+                    "nombre": "Somos unos animales",
+                    "fecha_publicacion": "1991",
+                    "discografica": "Area Creativa"
+                },
+                "posicion_disco": "6",
+                "duracion": "4.35",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Perro callejero",
+                "disco": {
+                    "nombre": "Somos unos animales",
+                    "fecha_publicacion": "1991",
+                    "discografica": "Area Creativa"
+                },
+                "posicion_disco": "7",
+                "duracion": "2.98",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Rosendo Mercado",
+                            "rol": "Guitarra invitada"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Desidia",
+                "disco": {
+                    "nombre": "Somos unos animales",
+                    "fecha_publicacion": "1991",
+                    "discografica": "Area Creativa"
+                },
+                "posicion_disco": "8",
+                "duracion": "4.5",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Resolucion",
+                "disco": {
+                    "nombre": "Somos unos animales",
+                    "fecha_publicacion": "1991",
+                    "discografica": "Area Creativa"
+                },
+                "posicion_disco": "9",
+                "duracion": "3.88",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Necesito droga y amor (Los camellos no me fian)",
+                "disco": {
+                    "nombre": "Somos unos animales",
+                    "fecha_publicacion": "1991",
+                    "discografica": "Area Creativa"
+                },
+                "posicion_disco": "10",
+                "duracion": "3.43",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Sol de invierno",
+                "disco": {
+                    "nombre": "Deltoya",
+                    "fecha_publicacion": "1992",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "1",
+                "duracion": "4.8",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Salvador Dominguez",
+                            "rol": "Guitarra solista"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        },
+                        {
+                            "nombre": "Belen",
+                            "rol": "Coros"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "De acero",
+                "disco": {
+                    "nombre": "Deltoya",
+                    "fecha_publicacion": "1992",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "2",
+                "duracion": "3.72",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Ultima generacion",
+                "disco": {
+                    "nombre": "Deltoya",
+                    "fecha_publicacion": "1992",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "3",
+                "duracion": "2.97",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Lucha contigo",
+                "disco": {
+                    "nombre": "Deltoya",
+                    "fecha_publicacion": "1992",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "4",
+                "duracion": "4.0",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Con un latido del reloj",
+                "disco": {
+                    "nombre": "Deltoya",
+                    "fecha_publicacion": "1992",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "5",
+                "duracion": "3.73",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Bulerias de la sangre caliente",
+                "disco": {
+                    "nombre": "Deltoya",
+                    "fecha_publicacion": "1992",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "6",
+                "duracion": "3.83",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Rafa Kas",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Deltoya",
+                "disco": {
+                    "nombre": "Deltoya",
+                    "fecha_publicacion": "1992",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "7",
+                "duracion": "5.7",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Rafa Kas",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Relacion convencional",
+                "disco": {
+                    "nombre": "Deltoya",
+                    "fecha_publicacion": "1992",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "8",
+                "duracion": "3.03",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Volando solo",
+                "disco": {
+                    "nombre": "Deltoya",
+                    "fecha_publicacion": "1992",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "9",
+                "duracion": "3.57",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Ariel Rot",
+                            "rol": "Guitarra solista"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Ama, ama, ama y ensancha el alma",
+                "disco": {
+                    "nombre": "Deltoya",
+                    "fecha_publicacion": "1992",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "10",
+                "duracion": "2.78",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Manolo Chinato",
+                            "rol": "Letra (Poesia)"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Papel secante",
+                "disco": {
+                    "nombre": "Deltoya",
+                    "fecha_publicacion": "1992",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "11",
+                "duracion": "4.97",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Estado policial",
+                "disco": {
+                    "nombre": "Deltoya",
+                    "fecha_publicacion": "1992",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "12",
+                "duracion": "4.1",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Manolo Chinato",
+                            "rol": "Letra (Poesia)"
+                        },
+                        {
+                            "nombre": "Salo",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Carlos \"El Sucio\"",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Luis \"Von Fanta\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "El duende del parque",
+                "disco": {
+                    "nombre": "¿Donde estan mis amigos?",
+                    "fecha_publicacion": "1993",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "1",
+                "duracion": "4.33",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Eugenio \"Uge\" Ortiz",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Miguel Ferreras",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jorge \"El Moja\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "No me calientes que me hundo",
+                "disco": {
+                    "nombre": "¿Donde estan mis amigos?",
+                    "fecha_publicacion": "1993",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "2",
+                "duracion": "2.87",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Eugenio \"Uge\" Ortiz",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Miguel Ferreras",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jorge \"El Moja\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Sin dios ni amo",
+                "disco": {
+                    "nombre": "¿Donde estan mis amigos?",
+                    "fecha_publicacion": "1993",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "3",
+                "duracion": "3.83",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Eugenio \"Uge\" Ortiz",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Miguel Ferreras",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jorge \"El Moja\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Pepe Botika - Donde estan mis amigos",
+                "disco": {
+                    "nombre": "¿Donde estan mis amigos?",
+                    "fecha_publicacion": "1993",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "4",
+                "duracion": "4.25",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Eugenio \"Uge\" Ortiz",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Miguel Ferreras",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jorge \"El Moja\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Estoy muy bien",
+                "disco": {
+                    "nombre": "¿Donde estan mis amigos?",
+                    "fecha_publicacion": "1993",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "5",
+                "duracion": "3.52",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Eugenio \"Uge\" Ortiz",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Miguel Ferreras",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jorge \"El Moja\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Bri bri bli bli - En el mas sucio rincon de mi negro corazon",
+                "disco": {
+                    "nombre": "¿Donde estan mis amigos?",
+                    "fecha_publicacion": "1993",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "6",
+                "duracion": "3.27",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Eugenio \"Uge\" Ortiz",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Miguel Ferreras",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jorge \"El Moja\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Malos pensamientos",
+                "disco": {
+                    "nombre": "¿Donde estan mis amigos?",
+                    "fecha_publicacion": "1993",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "7",
+                "duracion": "3.23",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Eugenio \"Uge\" Ortiz",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Miguel Ferreras",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jorge \"El Moja\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Posado en un nenufar",
+                "disco": {
+                    "nombre": "¿Donde estan mis amigos?",
+                    "fecha_publicacion": "1993",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "8",
+                "duracion": "2.37",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Eugenio \"Uge\" Ortiz",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Miguel Ferreras",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jorge \"El Moja\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Islero shirlero o ladron",
+                "disco": {
+                    "nombre": "¿Donde estan mis amigos?",
+                    "fecha_publicacion": "1993",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "9",
+                "duracion": "4.32",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Eugenio \"Uge\" Ortiz",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Miguel Ferreras",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jorge \"El Moja\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Historias prohibidas (Nos tiramos a joder)",
+                "disco": {
+                    "nombre": "¿Donde estan mis amigos?",
+                    "fecha_publicacion": "1993",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "9",
+                "duracion": "2.47",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Eugenio \"Uge\" Ortiz",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Miguel Ferreras",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jorge \"El Moja\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Los tengo todos",
+                "disco": {
+                    "nombre": "¿Donde estan mis amigos?",
+                    "fecha_publicacion": "1993",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "11",
+                "duracion": "2.95",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Eugenio \"Uge\" Ortiz",
+                            "rol": "Guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra invitada"
+                        },
+                        {
+                            "nombre": "Miguel Ferreras",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jorge \"El Moja\"",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Pedra",
+                "disco": {
+                    "nombre": "Pedra",
+                    "fecha_publicacion": "1995",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "1",
+                "duracion": "29.47",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra, teclados y produccion"
+                        },
+                        {
+                            "nombre": "Jose Luis \"Selu\" Nieto",
+                            "rol": "Saxo y coros"
+                        },
+                        {
+                            "nombre": "Diego \"Dieguillo\" Garay",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Gary (Quattro Clavos)",
+                            "rol": "Bateria"
+                        },
+                        {
+                            "nombre": "Fito Cabrales",
+                            "rol": "Guitarra y coros"
+                        },
+                        {
+                            "nombre": "Ramone",
+                            "rol": "Voz (fragmentos)"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Buscando una luna",
+                "disco": {
+                    "nombre": "Agila",
+                    "fecha_publicacion": "1996",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "1",
+                "duracion": "4.18",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Ramon \"Mon\" Sogas",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Alberto \"Inaki\" Gil",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Prometeo",
+                "disco": {
+                    "nombre": "Agila",
+                    "fecha_publicacion": "1996",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "2",
+                "duracion": "3.45",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Ramon \"Mon\" Sogas",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Alberto \"Inaki\" Gil",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Sucede",
+                "disco": {
+                    "nombre": "Agila",
+                    "fecha_publicacion": "1996",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "3",
+                "duracion": "3.12",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Ramon \"Mon\" Sogas",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Alberto \"Inaki\" Gil",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "So payaso",
+                "disco": {
+                    "nombre": "Agila",
+                    "fecha_publicacion": "1996",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "4",
+                "duracion": "4.68",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Ramon \"Mon\" Sogas",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Alberto \"Inaki\" Gil",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "El dia de la bestia",
+                "disco": {
+                    "nombre": "Agila",
+                    "fecha_publicacion": "1996",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "5",
+                "duracion": "4.73",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Ramon \"Mon\" Sogas",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Alberto \"Inaki\" Gil",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Tomas",
+                "disco": {
+                    "nombre": "Agila",
+                    "fecha_publicacion": "1996",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "6",
+                "duracion": "1.45",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Ramon \"Mon\" Sogas",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Alberto \"Inaki\" Gil",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "¡Que sonrisa tan rara!",
+                "disco": {
+                    "nombre": "Agila",
+                    "fecha_publicacion": "1996",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "7",
+                "duracion": "3.27",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Ramon \"Mon\" Sogas",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Alberto \"Inaki\" Gil",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Cabezabajo",
+                "disco": {
+                    "nombre": "Agila",
+                    "fecha_publicacion": "1996",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "8",
+                "duracion": "3.67",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Ramon \"Mon\" Sogas",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Alberto \"Inaki\" Gil",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Abreme el pecho y registra",
+                "disco": {
+                    "nombre": "Agila",
+                    "fecha_publicacion": "1996",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "9",
+                "duracion": "3.5",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Ramon \"Mon\" Sogas",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Alberto \"Inaki\" Gil",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Todos me dicen",
+                "disco": {
+                    "nombre": "Agila",
+                    "fecha_publicacion": "1996",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "10",
+                "duracion": "4.18",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Ramon \"Mon\" Sogas",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Alberto \"Inaki\" Gil",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Me estoy quitando",
+                "disco": {
+                    "nombre": "Agila",
+                    "fecha_publicacion": "1996",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "13",
+                "duracion": "2.2",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Ramon \"Mon\" Sogas",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Alberto \"Inaki\" Gil",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Salir",
+                "disco": {
+                    "nombre": "Canciones prohibidas",
+                    "fecha_publicacion": "1998",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "1",
+                "duracion": "5.3",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra, teclados y trombon"
+                        },
+                        {
+                            "nombre": "Diego \"Dieguillo\" Garay",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Esclarecido",
+                "disco": {
+                    "nombre": "Canciones prohibidas",
+                    "fecha_publicacion": "1998",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "2",
+                "duracion": "6.38",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Diego \"Dieguillo\" Garay",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Erase una vez",
+                "disco": {
+                    "nombre": "Canciones prohibidas",
+                    "fecha_publicacion": "1998",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "3",
+                "duracion": "4.58",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Diego \"Dieguillo\" Garay",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Golfa",
+                "disco": {
+                    "nombre": "Canciones prohibidas",
+                    "fecha_publicacion": "1998",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "4",
+                "duracion": "5.98",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Diego \"Dieguillo\" Garay",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Su culo miel",
+                "disco": {
+                    "nombre": "Canciones prohibidas",
+                    "fecha_publicacion": "1998",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "5",
+                "duracion": "5.97",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Diego \"Dieguillo\" Garay",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Extraterrestre",
+                "disco": {
+                    "nombre": "Canciones prohibidas",
+                    "fecha_publicacion": "1998",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "6",
+                "duracion": "3.47",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Diego \"Dieguillo\" Garay",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Autorretrato",
+                "disco": {
+                    "nombre": "Canciones prohibidas",
+                    "fecha_publicacion": "1998",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "7",
+                "duracion": "7.38",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Diego \"Dieguillo\" Garay",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Enemigo",
+                "disco": {
+                    "nombre": "Canciones prohibidas",
+                    "fecha_publicacion": "1998",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "8",
+                "duracion": "2.63",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Diego \"Dieguillo\" Garay",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Villancico del rey de Extremadura - Vaya puta mierda de villancico, colega",
+                "disco": {
+                    "nombre": "Canciones prohibidas",
+                    "fecha_publicacion": "1998",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "10",
+                "duracion": "3.05",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Diego \"Dieguillo\" Garay",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "A fuego",
+                "disco": {
+                    "nombre": "Yo, minoria absoluta",
+                    "fecha_publicacion": "2002",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "1",
+                "duracion": "5.38",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "La vereda de la puerta de atras",
+                "disco": {
+                    "nombre": "Yo, minoria absoluta",
+                    "fecha_publicacion": "2002",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "2",
+                "duracion": "4.05",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Hoy te la meto hasta las orejas",
+                "disco": {
+                    "nombre": "Yo, minoria absoluta",
+                    "fecha_publicacion": "2002",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "3",
+                "duracion": "3.7",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Standby",
+                "disco": {
+                    "nombre": "Yo, minoria absoluta",
+                    "fecha_publicacion": "2002",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "4",
+                "duracion": "3.45",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Menamoro",
+                "disco": {
+                    "nombre": "Yo, minoria absoluta",
+                    "fecha_publicacion": "2002",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "5",
+                "duracion": "3.15",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        },
+                        {
+                            "nombre": "Javi Isasi",
+                            "rol": "Trompeta"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Luce la oscuridad",
+                "disco": {
+                    "nombre": "Yo, minoria absoluta",
+                    "fecha_publicacion": "2002",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "6",
+                "duracion": "3.85",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Cerca del suelo",
+                "disco": {
+                    "nombre": "Yo, minoria absoluta",
+                    "fecha_publicacion": "2002",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "7",
+                "duracion": "4.68",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Puta",
+                "disco": {
+                    "nombre": "Yo, minoria absoluta",
+                    "fecha_publicacion": "2002",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "8",
+                "duracion": "5.37",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Buitre no come alpiste",
+                "disco": {
+                    "nombre": "Yo, minoria absoluta",
+                    "fecha_publicacion": "2002",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "9",
+                "duracion": "4.27",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "La vieja (Cancion sordida)",
+                "disco": {
+                    "nombre": "Yo, minoria absoluta",
+                    "fecha_publicacion": "2002",
+                    "discografica": "DRO"
+                },
+                "posicion_disco": "10",
+                "duracion": "4.72",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Dulce introduccion al caos",
+                "disco": {
+                    "nombre": "La ley innata",
+                    "fecha_publicacion": "2008",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "1",
+                "duracion": "7.7",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra, teclados y piano"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        },
+                        {
+                            "nombre": "Ara Malikian",
+                            "rol": "Primer violin"
+                        },
+                        {
+                            "nombre": "Ara Malikian",
+                            "rol": "Violinista invitado"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Primer movimiento: El sueno",
+                "disco": {
+                    "nombre": "La ley innata",
+                    "fecha_publicacion": "2008",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "2",
+                "duracion": "6.05",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y organo Hammond"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        },
+                        {
+                            "nombre": "Ara Malikian",
+                            "rol": "Violinista invitado"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Segundo movimiento: Lo de fuera",
+                "disco": {
+                    "nombre": "La ley innata",
+                    "fecha_publicacion": "2008",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "3",
+                "duracion": "11.72",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        },
+                        {
+                            "nombre": "Ara Malikian",
+                            "rol": "Violinista invitado"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Tercer movimiento: Lo de dentro",
+                "disco": {
+                    "nombre": "La ley innata",
+                    "fecha_publicacion": "2008",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "4",
+                "duracion": "7.6",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        },
+                        {
+                            "nombre": "Ara Malikian",
+                            "rol": "Violinista invitado"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Cuarto movimiento: La realidad",
+                "disco": {
+                    "nombre": "La ley innata",
+                    "fecha_publicacion": "2008",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "5",
+                "duracion": "5.82",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        },
+                        {
+                            "nombre": "Ara Malikian",
+                            "rol": "Violinista invitado"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Coda flamenca (Otra realidad)",
+                "disco": {
+                    "nombre": "La ley innata",
+                    "fecha_publicacion": "2008",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "6",
+                "duracion": "6.23",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y produccion"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        },
+                        {
+                            "nombre": "Ara Malikian",
+                            "rol": "Violinista invitado"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Desarraigo",
+                "disco": {
+                    "nombre": "Material defectuoso",
+                    "fecha_publicacion": "2011",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "1",
+                "duracion": "7.62",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra, teclados y piano"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Mi espiritu imperecedero",
+                "disco": {
+                    "nombre": "Material defectuoso",
+                    "fecha_publicacion": "2011",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "2",
+                "duracion": "5.7",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Otra inutil cancion para la paz",
+                "disco": {
+                    "nombre": "Material defectuoso",
+                    "fecha_publicacion": "2011",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "3",
+                "duracion": "6.18",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Si te vas",
+                "disco": {
+                    "nombre": "Material defectuoso",
+                    "fecha_publicacion": "2011",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "4",
+                "duracion": "8.6",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Tango suicida",
+                "disco": {
+                    "nombre": "Material defectuoso",
+                    "fecha_publicacion": "2011",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "5",
+                "duracion": "8.12",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Calle Esperanza s/n",
+                "disco": {
+                    "nombre": "Material defectuoso",
+                    "fecha_publicacion": "2011",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "6",
+                "duracion": "7.1",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Locura transitoria",
+                "disco": {
+                    "nombre": "Para todos los publicos",
+                    "fecha_publicacion": "2013",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "1",
+                "duracion": "8.23",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra, teclados y piano"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Entre interiores",
+                "disco": {
+                    "nombre": "Para todos los publicos",
+                    "fecha_publicacion": "2013",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "2",
+                "duracion": "4.1",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "¡Que borde era mi valle!",
+                "disco": {
+                    "nombre": "Para todos los publicos",
+                    "fecha_publicacion": "2013",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "3",
+                "duracion": "3.9",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Poema sobrecogido",
+                "disco": {
+                    "nombre": "Para todos los publicos",
+                    "fecha_publicacion": "2013",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "4",
+                "duracion": "5.73",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Manue IV",
+                "disco": {
+                    "nombre": "Para todos los publicos",
+                    "fecha_publicacion": "2013",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "5",
+                "duracion": "0.5",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Mama",
+                "disco": {
+                    "nombre": "Para todos los publicos",
+                    "fecha_publicacion": "2013",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "6",
+                "duracion": "6.15",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Mi voluntad",
+                "disco": {
+                    "nombre": "Para todos los publicos",
+                    "fecha_publicacion": "2013",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "7",
+                "duracion": "3.33",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "Pequeno rocanrol endemico",
+                "disco": {
+                    "nombre": "Para todos los publicos",
+                    "fecha_publicacion": "2013",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "8",
+                "duracion": "5.13",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            },
+            {
+                "titulo": "El camino de las utopias",
+                "disco": {
+                    "nombre": "Para todos los publicos",
+                    "fecha_publicacion": "2013",
+                    "discografica": "Warner Music Spain"
+                },
+                "posicion_disco": "9",
+                "duracion": "7.5",
+                "integrantes": {
+                    "integrante": [
+                        {
+                            "nombre": "Roberto \"Robe\" Iniesta",
+                            "rol": "Voz y guitarra"
+                        },
+                        {
+                            "nombre": "Inaki \"Uoho\" Anton",
+                            "rol": "Guitarra y teclados"
+                        },
+                        {
+                            "nombre": "Miguel Colino",
+                            "rol": "Bajo"
+                        },
+                        {
+                            "nombre": "Jose Ignacio Cantera",
+                            "rol": "Bateria"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
